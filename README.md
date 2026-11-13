@@ -1,4 +1,4 @@
-# Muazzam Badshah Khan — portfolio
+# Muazzam Badshah — portfolio
 
 26 static HTML pages. No installation or build is required.
 
